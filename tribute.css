@@ -1,0 +1,70 @@
+body {
+background: rgb(5, 19, 70);
+}
+h2{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.809);
+    font-family: sans-serif;}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+ table{
+    width: 100%;
+ }
+ td {
+    height: 80px;
+    width: 160px;
+    text-align: center;
+    vertical-align: middle;
+ }
+.first {
+    text-align: center;
+    color:gold;
+    font-size: 18px;
+    width: 100px;
+    font-family: Georgia, serif;}
+#first {
+    text-align: center;
+    vertical-align: middle;
+    color: wheat;
+    font-size: 13px;
+    margin-right: 50px;
+    padding-top: -10px;
+    padding-bottom: auto;
+    font-family: cursive;
+    padding-top: 10px;
+}
+#second {
+    text-align: center;
+    vertical-align: middle;
+    color: wheat;
+    font-size: 13px;
+    margin-left:800px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: auto;
+    font-family: cursive;
+}
+#third {
+    text-align: center;
+    vertical-align: middle;
+    color: wheat;
+    font-size: 13px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: auto;
+    font-family: cursive;
+}
+#fourth {
+    text-align: center;
+    vertical-align: middle;
+    color: wheat;
+    font-size: 13px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: auto;
+    font-family: cursive;
+}
